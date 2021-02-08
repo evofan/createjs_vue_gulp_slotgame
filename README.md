@@ -3,7 +3,7 @@
 <img src="https://evofan.github.io/createjs_vue_gulp_slotgame/screenshot/cap_slot_pc.jpg" width="50%">  
 
 **DEMO**  
-[https://evofan.github.io/createjs_vue_gulp_slotgame/index.html](https://evofan.github.io/createjs_vue_gulp_slotgame/index.html)  
+[http://springdale.sakura.ne.jp/createjs_vue_gulp_slotgame2021/](http://springdale.sakura.ne.jp/createjs_vue_gulp_slotgame2021/)  
 
 reference  
 
@@ -14,6 +14,7 @@ fpsによってリールがガクガクな動きになるのを解決。
 
 gulpでjsファイルをminifyする - Qiita  
 [https://qiita.com/suisui654/items/9889425f07beedd313d0](https://qiita.com/suisui654/items/9889425f07beedd313d0)  
+<img src="https://evofan.github.io/createjs_vue_gulp_slotgame/screenshot/pic_minify.jpg" width="50%">  
 
 【gulp】gulp@4.0.0にしたら`The following tasks did not complete:`、  
 `Did you forget to signal async completion?`と怒られる - tweeeetyのぶろぐ的めも  
